@@ -1,14 +1,10 @@
 [
   {
-    "title": "Quick Pick",
-    "description": "Fast. Simple. Majority wins."
-  },
-  {
-    "title": "Fair Choice",
-    "description": "Balances votes and objections."
-  },
-  {
-    "title": "Host Decides",
-    "description": "Organizer gets final say"
+    "title": "Demo: Where should we eat?",
+    "options": [
+      { "label": "Pizza" },
+      { "label": "Sushi" },
+      { "label": "Tacos" }
+    ]
   }
 ]
